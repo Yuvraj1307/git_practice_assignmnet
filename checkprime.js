@@ -5,7 +5,7 @@ for(let i=1; i<=num; i++){
   }
 }
  if(factors==2){
-   return false;
+   return true;
 } return false;  }
 for (i=2; i<=9; i++){
   let ans=checkprime(i);
